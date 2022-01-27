@@ -372,16 +372,16 @@ section .title::after{
     width: 54%;
 }
 .skills-content .right .ang::before{
-    width: 26%;
+    width: 79%;
 }
 .skills-content .right .python::before{
     width: 92%;
 }
 .skills-content .right .c::before{
-    width: 33%;
+    width: 93%;
 }
-.skills-content .right .mysql::before{
-    width: 5%;
+.skills-content .right .sql::before{
+    width: 89%;
 }
 
 /* Projects section styling */
